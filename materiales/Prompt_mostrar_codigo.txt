@@ -1,0 +1,1 @@
+Muestra aqui un fragmento del HTML y CSS de la app que acabas de crear, con el efecto de cristal. No modifiques la app.
